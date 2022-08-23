@@ -51,6 +51,11 @@ This graph shows that line position does less pushups than skill. The line playe
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
+```{r}
+favstats(pushups~position,data=mydata)
+```
+
+The skilled players are doing 3 times the pushups than the linemen.
 
 ## Inferential Results
 
