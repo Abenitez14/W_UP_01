@@ -68,5 +68,6 @@ The probability of the diffrence of the amount of linemen and skill players are 
 
 # Discussion and Conclusion
 
-<!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+<!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+ We looked at the problem,and there are only two categorize. There was the Graphical and numerical results. To check this we used a t test to make sure all the information from the graph was correct. It came out to be the linemen do less pushups than the skilled players. There was a number that came up the probability of the linemen and the skilled players doing equal amount of pushups is .000009421 so there really isn't a chance for the lineman to really be equal to the skilled players. 
